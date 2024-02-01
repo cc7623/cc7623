@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 I'm Calvin - and I like to code - a lot. I started my journey in November 2019 with [Scratch](https://scratch.mit.edu), then moved on to [Python](https://python.org), then to [HTML](https://en.wikipedia.org/wiki/HTML)/[CSS](https://en.wikipedia.org/wiki/CSS). I found out about jailbreaking in December 2022, and since then it just became my hobby. I'm not an expert (by a long shot) but I know my way around tech in general and just have fun playing around with it.
 
-💻⌨️💾🖥🧑‍💻👨‍💻What am I doing?
+👨‍💻 What am I doing?
 - 🔭 I'm currently working on archiving a bunch of stuff. Right now I'm doing Apple1nt3rnal software and r1pb1gb0ss, because you never know when the next biggest repo will go down ([modmyi](https://forums.macrumors.com/threads/sad-day-for-jailbreakers-modmyi-and-zodttd-macciti-cydia-repositories-shut-down.2090898/)).
 - 🌱 I’m currently learning more about scratch, python, HTML, and jailbreaking. I try to expand my knowledge on all subjects.
 
 
 📫 How do you reach me?
-- 💬 You can contact me at yt.calvin.coolest@gmail.com.
+- ✉️ You can contact me at yt.calvin.coolest@gmail.com.
 
 
 I try to know as much as I can, and I'm always learning new things every day.
