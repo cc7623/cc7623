@@ -32,7 +32,7 @@ I'm Calvin - and I like to code - a lot. I started my journey in November 2019 w
 
 I try to know as much as I can, and I'm always learning new things every day.
 
-[![my stats!](https://github-readme-stats.vercel.app/api?username=cc7623&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![my stats!](https://github-readme-stats.vercel.app/api?username=cc7623&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) !--->
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,linux,md,replit,stackoverflow,vscode&theme=dark)](https://skillicons.dev)
 
