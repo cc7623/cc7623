@@ -24,7 +24,8 @@ I started my journey in November 2019 with [Scratch](https://scratch.mit.edu), t
 ⚡ Some projects from the past:
 - 💽 Recreating Hypixel Bedwars with only command blocks
 - 🏹 Recreating Hypixel Bridge with only command blocks *(uploading the world downloads to github soon)*
-- 💾 Archiving a HUGE amount of AppleInt3rnal data and B1gB0ss packages
+- 💾 Archived a HUGE amount of AppleInt3rnal data and B1gB0ss packages
+- 🌐 Made my own website ([cc7623.github.io](https://cc7623.github.io))
 - 🏆 Winning a game of bedwars on a USB drive
 
 🧠 What am I doing now?
