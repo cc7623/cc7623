@@ -21,16 +21,13 @@ Here are some ideas to get you started:
 
 I started my journey in November 2019 with [Scratch](https://scratch.mit.edu), then moved on to [Python](https://python.org) in June 2021, then to [HTML](https://en.wikipedia.org/wiki/HTML)/[CSS](https://en.wikipedia.org/wiki/CSS) in October 2023. I found out about jailbreaking in December 2022, and since then it just became my hobby. I'm not an expert, by a long shot, but I know my way around tech in general and I have fun playing around with it.
 
-⚡ Some projects from the past:
-- 💽 Recreating Hypixel Bedwars with only command blocks
-- 🏹 Recreating Hypixel Bridge with only command blocks *(uploading the world downloads to github soon)*
-- 💾 Archived a HUGE amount of AppleInt3rnal data and B1gB0ss packages
-- 🌐 Made my own website ([cc7623.github.io](https://cc7623.github.io))
-- 🏆 Winning a game of bedwars on a USB drive
-
-🧠 What am I doing now?
-- 🔭 Right now I'm archiving Apple1nt3rnal software and B1gB0ss archives, because you never know when the next biggest repo will go down (`going to modmyi.com now redirects to techradar, and it doesn't look like modmyi's going to come back online. unfortunately, this has lost many tweaks from the internet. RIP modmyi: 2008-2023. you will be missed.`). I'm also working on my own [website](https://cc7623.github.io), and overall a bunch of stuff.
-- 🌱 I’m currently learning more about scratch, python, HTML, and iOS.
+⚡ Some projects from/for the past, present, and future:
+- 💽 Recreated Hypixel Bedwars with only command blocks
+- 🏹 Recreated Hypixel Bridge with only command blocks *(uploading the world downloads to github soon. it's been over 1 yr, I should really get to that.)*
+- 💾 Archiving a HUGE amount of [AppleInt3rnal](https://github.com/cc7623/appleintcollection) data and [B1gB0ss files](https://github.com/cc7623/b1gb0ss-arch1ve)
+- 🌐 Making my own website ([cc7623.github.io](https://cc7623.github.io))
+- 📶 Making a guide on school WiFi and how to bypass [cc7623.github.io/evade.github.io](https://cc7623.github.io/evade.github.io)
+- 🕒 And much more that I'll probably never get to.
 
 I try to know as much as I can, and I'm always learning new things every day.
 
