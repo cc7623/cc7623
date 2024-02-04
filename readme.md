@@ -33,7 +33,14 @@ I try to know as much as I can, and I'm always learning new things every day.
 
 <!--- [![my stats!](https://github-readme-stats.vercel.app/api?username=cc7623&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) !--->
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,linux,vscode&theme=dark)](https://skillicons.dev)
-![](https://komarev.com/ghpvc/?username=cc7623&color=blue)
+***
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,jquery,python,linux,vscode&theme=dark)](https://skillicons.dev)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=cc7623&show_icons=true&theme=github_dark&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc7623&layout=compact&theme=github_dark)
+
+![Views](https://komarev.com/ghpvc/?username=cc7623&label=Views)
 
 ✉️ You can contact me at yt.calvin.coolest@gmail.com.
