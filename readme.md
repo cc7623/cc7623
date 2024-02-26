@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ***
 
-✉️ You can contact me at yt.calvin.coolest@gmail.com.
+✉️ [Socials](https://cc7623.bio.link/)
