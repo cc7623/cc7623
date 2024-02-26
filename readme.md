@@ -16,8 +16,3 @@ Here are some ideas to get you started:
 ![Stats](https://github-readme-stats.vercel.app/api?username=cc7623&show_icons=true&theme=github_dark&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cc7623&layout=compact&theme=github_dark)
-
-
-***
-
-✉️ [Socials](https://cc7623.bio.link/)
