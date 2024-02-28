@@ -1,3 +1,7 @@
+### Hello.
+
+I'm cc7623 (calvincool7623), a student with a keen interest in meticulously archiving AppleInternal data and exploring the world of legacy jailbreaking.
+
 <!--
 **cc7623/cc7623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
